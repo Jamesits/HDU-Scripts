@@ -45,9 +45,9 @@ String.prototype.rpadding || (String.prototype.rpadding = function(len, char) {
 (function() {
     console.log(
         '%c' 
-        + 'Transmajor Insight for HDU\n' 
+        + '转专业查询 for HDU\n' 
         + 'by James Swineson\n' 
-        + 'See: https://gist.github.com/Jamesits/86c0cac9eaf5b42c056e\n' 
+        + 'See: https://github.com/Jamesits/HDU-Scripts/blob/master/zzy.hdu.edu.cn/\n' 
         + Array(41).join('*') + '\n',
         "background: #FFF; color: #0AA"
     );
