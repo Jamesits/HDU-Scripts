@@ -2,7 +2,6 @@
     杭电转专业系统数据查询
     A script which enables you to view how many people have applied to all majors in HDU's major change website (zzy.hdu.edu.cn). 
     Execute directly in Console from http://zzy.hdu.edu.cn/ .
-    Written by James Swineson (@Jamesits). 
     2016-01-20
  */
 
