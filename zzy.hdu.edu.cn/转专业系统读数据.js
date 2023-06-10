@@ -46,8 +46,7 @@ String.prototype.rpadding || (String.prototype.rpadding = function(len, char) {
     console.log(
         '%c' 
         + '转专业查询 for HDU\n' 
-        + 'by James Swineson\n' 
-        + 'See: https://github.com/Jamesits/HDU-Scripts/blob/master/zzy.hdu.edu.cn/\n' 
+        + 'Doc: https://github.com/Jamesits/HDU-Scripts/blob/master/zzy.hdu.edu.cn/\n' 
         + Array(41).join('*') + '\n',
         "background: #FFF; color: #0AA"
     );
